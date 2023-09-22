@@ -1,2 +1,1 @@
-# booki
-Booki site agence de voyage pour la formation openclassroom
+# booki-starter-pack
